@@ -7,7 +7,7 @@ public class numberGame {
         Random random = new Random();
         int numberToGuess = random.nextInt(100) + 1;
         int attempts = 0;
-        int maxAttempts = 5;
+        int maxAttempts = 15;
         int guess;
         boolean guessedCorrectly = false;
 
