@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/NumberGame/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/NumberGame/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StudentGradeCalculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StudentGradeCalculator/src/main/resources" charset="UTF-8" />
   </component>
 </project>
