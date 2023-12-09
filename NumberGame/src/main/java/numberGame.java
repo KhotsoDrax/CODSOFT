@@ -13,7 +13,7 @@ public class numberGame {
 
         System.out.println("Welcome to the Number Guessing Game!");
         System.out.println("Try to guess the magic number between 1 and 100.");
-        System.out.println("You have 5 attempts.");
+        System.out.println("You have 15 attempts.");
 
         while (attempts < maxAttempts) {
             System.out.print("Enter your guess: ");
