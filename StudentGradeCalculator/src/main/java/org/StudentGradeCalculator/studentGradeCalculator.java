@@ -1,3 +1,5 @@
+package org.StudentGradeCalculator;
+
 import java.util.Scanner;
 
 public class studentGradeCalculator {

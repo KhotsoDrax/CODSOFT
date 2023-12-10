@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="NumberGame" />
         <module name="StudentGradeCalculator" />
+        <module name="CurrencyConverter" />
       </profile>
     </annotationProcessing>
   </component>
