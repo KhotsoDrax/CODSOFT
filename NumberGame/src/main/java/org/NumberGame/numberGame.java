@@ -1,3 +1,5 @@
+package org.NumberGame;
+
 import java.util.Scanner;
 import java.util.Random;
 
