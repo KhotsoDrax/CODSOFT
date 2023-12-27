@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="IdeaProjects">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/CurrencyConverter/src/main/java" />
+      <root url="file://$PROJECT_DIR$/NumberGame/src/main/java" />
+      <root url="file://$PROJECT_DIR$/StudentGradeCalculator/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../SelfPractice/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../ewc4_brownfields_michael_faraday/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../ewc4_brownfields_michael_faraday/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../ewc7_jack_dorsey_robot_worlds/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../ewc7_jack_dorsey_robot_worlds/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../submission-102-java-004-toy_robot/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../submission-102-java-004-toy_robot/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
