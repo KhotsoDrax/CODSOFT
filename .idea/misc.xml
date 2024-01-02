@@ -11,6 +11,12 @@
         <option value="$PROJECT_DIR$/ATMInterphase/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ATMInterphase/pom.xml" />
+        <option value="$PROJECT_DIR$/StudentManagementSystem/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

@@ -12,10 +12,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="NumberGame" />
         <module name="StudentGradeCalculator" />
-        <module name="ATMInterphase" />
-        <module name="StudentManagementSystem" />
         <module name="CurrencyConverter" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ATMInterphase" target="1.7" />
+      <module name="StudentManagementSystem" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
